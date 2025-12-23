@@ -7,9 +7,9 @@ Mario must escape a survival island by navigating a map and successfully complet
 The goal is to correctly model the problems, apply appropriate search strategies, and clearly show node expansion order and solution paths.
 
 The project consists of three main parts:
-	1.	Island navigation using UCS and BFS
-	2.	Challenge 1: Missionaries and Cannibals Problem solved using A-Star Algorithm
-	3.	Challenge 2: Finding Luigi in a Maze and Escape solved using Greedy Best-First Search Algorithm
+1.	Island navigation using UCS and BFS
+2.	Challenge 1: Missionaries and Cannibals Problem solved using A-Star Algorithm
+3.	Challenge 2: Finding Luigi in a Maze and Escape solved using Greedy Best-First Search Algorithm
 
 ## Part 1: Survival Game Map
 
