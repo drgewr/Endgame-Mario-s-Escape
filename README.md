@@ -8,7 +8,7 @@ The goal is to correctly model the problems, apply appropriate search strategies
 
 The project consists of three main parts:
 	1.	Island navigation using UCS and BFS
-	2.	Challenge 1: Missionaries and Cannibals Problem solved using A* Algorithm
+	2.	Challenge 1: Missionaries and Cannibals Problem solved using A-Star Algorithm
 	3.	Challenge 2: Finding Luigi in a Maze and Escape solved using Greedy Best-First Search Algorithm
 
 ## Part 1: Survival Game Map
@@ -55,7 +55,7 @@ Cannibals must never outnumber missionaries on either bank
 - Cost Function:
 Each boat crossing has cost = 1
 
-***A* Algorithm is used to solve the problem optimally***
+***A-Star Algorithm is used to solve the problem optimally***
 
 Justification:
 - Each remaining person must cross the river at least once
