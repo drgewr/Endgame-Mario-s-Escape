@@ -97,7 +97,7 @@ Output:
 - Expansion order is printed
 - Solution path is printed for each search phase
 
-Program Structure:
+## Program Structure
 - uniform_cost_search(): UCS for island map
 - breadth_first_search(): BFS for island map
 - missionaries_cannibals_problem(): A* for Challenge 1
@@ -105,13 +105,13 @@ Program Structure:
 - move_to_challenge(): Integrates challenges into the main search
 - main(): Menu-driven execution
 
-How to Run:
+## How to Run
 1.	Ensure maze_structure.txt is in the same directory
 2.	Run the program:
 ```python main.py```
 3.	Choose 1 for UCS and 2 for BFS
 
-References:
+## References
 - Missionaries and Cannibals solution video - https://www.youtube.com/watch?v=laLS8gHzROg
 - Maze exploration reference -https://www.researchgate.net/publication/315969093_Maze_Exploration_Algorithm_for_Small_Mobile_Platforms
   
